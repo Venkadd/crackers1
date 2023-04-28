@@ -1,0 +1,12 @@
+.common__section {
+    background: linear-gradient(#212245b2, #212245b2),
+      url("https://talkinnow.com/wp-content/uploads/2018/08/Diwali-Crackers-Background-1-1068x601.jpg");
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 0px;
+  }
+  /* .ui__l{
+background-: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  } */

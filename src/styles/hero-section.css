@@ -1,0 +1,65 @@
+.hero__c {
+    padding: 70px;
+}
+
+
+.hero__title{
+    font-size: 2.5rem;
+    line-height: 55px;
+}
+
+.hero__title span{
+    color:rgb(210, 10, 34)
+}
+.para__content p{
+    font-size: 1rem;
+    line-height: 30px;
+    color: #777;
+}
+
+.hero__btns button{
+    border: none;
+    outline: none;
+    padding: 7px 20px ;
+    border-radius: 5px;
+    cursor: pointer;
+font-weight: 600;
+}
+
+.all__products-btns{
+background: transparent;
+color: aliceblue;
+}
+
+.all__products-btns a{
+color: red;
+}
+
+.all__products-btns {
+background: rgb(29, 27, 27);
+}
+
+.hero__service{
+    color:#212245;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+.shipping__icon i{
+    padding: 5px;
+    background:#df2020 ;
+    color: #fff;
+    border-radius: 50%;
+    font-weight: 500 !important;
+}
+.carousel-item-active{
+margin: 0%;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-image: url(http://www.gowthamcrackers.com/images/parallax.jpg);
+  }
+  

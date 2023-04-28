@@ -1,0 +1,162 @@
+.safetytipsbg {
+    background-image:linear-gradient(#212245b2, #212245b2), url("https://lh3.googleusercontent.com/-lVwnnhk3FiE/X6LGpMa73uI/AAAAAAAAC20/jM4hbJQxF7s-AIpMIlXS5K7g082KbZFpgCLcBGAsYHQ/s1600/1604503194193615-1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.pad {
+    padding: 90px 0;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.text-white {
+    color: #fff!important;
+}
+.text-center {
+    text-align: center!important;
+}
+.bigfont {
+    font-size: 40px;
+}
+.cookie {
+    font-family: "RocknRoll One", sans-serif !important;;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.clr1 {
+    color: #c91224;
+}
+.cookie {
+    font-family: 'Cookie', cursive!important;
+}
+.h1, h1 {
+    font-size: 2.5rem;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.font {
+    font-size: 45px;
+}
+.block-head {
+    position: relative;
+    margin-bottom: 20px;
+    padding: 0 0 20px;
+    border-bottom: 1px solid #cac9c9;
+    font-weight: normal;
+    color: #333e48;
+}
+.cookie {
+    font-family: 'Cookie', cursive!important;
+}
+.block-head::before {
+    position: absolute;
+    bottom: -3px;
+    left: 20px;
+    width: 35px;
+    height: 5px;
+    content: "";
+    display: inline-block;
+    background-color: #ec2424;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.block-head::after {
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 80px;
+    height: 1px;
+    content: "";
+    display: inline-block;
+    background-color: #ec2424;
+}
+
+.pt-4, .py-4 {
+    padding-top: 1.5rem!important;
+}
+li {
+    list-style-type: none!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.icnclr1 {
+    color: #559926;
+    font-size: 30px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    
+}
+
+li {
+    list-style-type: none!important;
+}
+
+li {
+    text-align: -webkit-match-parent;
+}
